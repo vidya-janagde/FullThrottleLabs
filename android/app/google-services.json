@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79340537694",
+    "firebase_url": "https://flareplay-1e737.firebaseio.com",
+    "project_id": "flareplay-1e737",
+    "storage_bucket": "flareplay-1e737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79340537694:android:9fb52b7eb1e30beb77f1cf",
+        "android_client_info": {
+          "package_name": "com.vidyajangade.flutter_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79340537694-fj2d25rcmt5lemndcmplh5nts5c01kba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmE1CgWyiRniW-kvANqC-yApqET6JjoCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79340537694-fj2d25rcmt5lemndcmplh5nts5c01kba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79340537694-d4e96t6dvamuo7l1ujfam96e63ro5igk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vidyajangade.flutterTodoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
